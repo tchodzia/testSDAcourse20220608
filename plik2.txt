@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Pierwsza linijka
-=======
-plik do testów
->>>>>>> testing
