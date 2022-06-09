@@ -1,2 +1,1 @@
-zmiany w pliku A
-dopisek :)
+to jest zawartoœæ pliku A
