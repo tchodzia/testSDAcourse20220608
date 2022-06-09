@@ -1,1 +1,2 @@
 plik do testów
+kolejna linijka w pliku do testów
